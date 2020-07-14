@@ -157,7 +157,8 @@ EVSYS:
 
  SOS message waveform captured by a logic analyzer:
 <br><img src="images/SOS_on_logic_analyzer.PNG" width="600">
-**Note:** The waveform from the image represents the SOS digital representation (presented at the beginning of this readme) negated, beacuse the LED works on inverse logic.
+
+ **Note:** The waveform from the image represents the SOS digital representation (presented at the beginning of this readme) negated, beacuse the LED works on inverse logic.
 
  ## Summary
  The demo shows how to generate the SOS message using Core Independent Peripherals (CIPs).

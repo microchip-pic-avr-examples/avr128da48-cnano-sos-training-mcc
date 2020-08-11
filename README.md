@@ -12,7 +12,7 @@
 
  ## Related Documentation
  More details and code examples on the AVR128DA48 can be found at the following links:
- - [Core Independent Solution using AVR DA Peripherals Lab](https://www.microchip.com/)
+ - [Core Independent Solution using AVR DA Peripherals Lab](http://ww1.microchip.com/downloads/en/DeviceDoc/AVR-DA-Training-Manual-Core-Independent-Solution-Using-AVR-DA-Peripherals-Lab-DS90003276A.pdf)
  - [AVR128DA48 Product Page](https://www.microchip.com/wwwproducts/en/AVR128DA28)
  - [AVR128DA48 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=avr128da48)
  - [AVR128DA48 Project Examples in START](https://start.atmel.com/#examples/AVR128DA48CuriosityNano)

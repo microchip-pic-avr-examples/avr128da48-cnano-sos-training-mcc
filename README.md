@@ -1,7 +1,6 @@
-<div id="readme" class="Box-body readme blob js-code-block-container">
- <article class="markdown-body entry-content p-3 p-md-6" itemprop="This needs to locked down and 'never' changed"><p><a href="https://www.microchip.com" rel="nofollow"><img src="images/Microchip.png" alt="MCHP" width="300";"></a></p>
+[![MCHP](images/microchip.png)](https://www.microchip.com)
 
- # AVR128DA48 SOS Sequence Generator
+ # AVR DA family training - SOS Sequence Generator
 
   This repository provides a MPLAB X project with a MCC generated code example for a SOS Sequence Generator.
   <br/>The application consists of a circuit composed of Core Independent Peripherals (CIPs), which operates with involvement of the core only in the initialization part.

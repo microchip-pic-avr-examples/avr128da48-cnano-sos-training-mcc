@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-sos-training-mcc",
-        "version": "1.0.0",
+        "version": "1.0.2",
         "displayName": "AVR DA family training - SOS Sequence Generator",
         "projectName": "avr128da48-cnano-sos-training-mcc",
         "shortDescription": "This repository provides a MPLAB X project with an MCC-generated code example for an SOS Sequence Generator",
